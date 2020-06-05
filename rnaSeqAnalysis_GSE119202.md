@@ -3,6 +3,12 @@ DE Seq Analysis of GSE119202
 Kieran Bissessar
 12/5/2019
 
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  fig.path = "rnaSeqAnalysis_GSE119202/rnaSeqAnalysis_GSE119202-"
+)
+```
+
 # 1 Read in Data
 
 read in
